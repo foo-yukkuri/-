@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+ <h1>ふぉおーーの自己紹介etc...</h1>
+<p><h2>ふぉおーーとは</h2><br>
+    ふぉおーーは、Youtubeチャンネルを運営している、所謂Youtuberです。誕生日:11/19で、好きなものはPCなどです。
+    嫌いなものはあまりありません。</p>
+<p><h2>Youtubeチャンネル</h2>
+<p>ふぉおーーのYoutubeのチャンネルは、
+    <a href="https://www.youtube.com/@foo_futeiki" target="_blank">ここから飛べます。</a><br>
+    チャンネルは、2022/4/26に開設、同年5/11に初投稿し、そこからいろいろな動画を投稿して、2023/11/27に登録者100人突破した。<br>
+    現在で最も再生されているのは、<a href="https://www.youtube.com/watch?v=tK59gaz1Im4" target="_blank">普通の小学5年生がタイピングをやってみただけ</a>
+    で、再生回数は、1898回を記録して、<a href="https://youtu.be/ifyv9v_lOnI" target="_blank">2番目に再生されている動画</a>
+    より、再生数が2倍以上になっています。(2023/12/9日地点)
+<p><h2>PCのスペック</h2><br>
+    ふぉおーーは、PCを三台所有していて、そのうち一つがデスクトップパソコンです。(メインPC)
+    あと二つはノートPCで、ThinkpadX270と、Fujitsu Lifebook A574/HXです。</p>
+<h4>メインPCのスペック</h4><br>
+CPU:Intel Core I3-6100<br>
+    RAM:DDR4 2400Mhz 16GB<br>
+    SSD:256GB(C:\)250GB(D:\)<br>
+    GPU:Nvidia GeForce GTX 750TI<br>
+<h4>サブPC(X270)</h4><br>
+CPU:Intel Core I5-6200U<br>
+    RAM:DDR4 8GB<br>
+    SSD:128GB<br>
+    IGPU:Intel HD Graphics 520<br>
+<h4>サブサブPC(A574/HX)</h4><br>
+CPU:Intel Core I5-4300M<br>
+    RAM:DDR3 8GB<br>
+    SSD:256GB<br>
+    IGPU:Intel HD Graphics 4600<br>
+</body>
+</html>
